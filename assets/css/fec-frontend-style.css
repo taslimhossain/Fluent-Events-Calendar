@@ -1,0 +1,10 @@
+.fluent-events-meta {
+    margin-top: 50px;
+    display: block;
+}
+
+span.fluent-events-date {
+    font-style: italic;
+    font-weight: bold;
+    color: #333;
+}
